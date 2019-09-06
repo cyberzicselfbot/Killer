@@ -19,7 +19,7 @@ echo "\033[32;1mAuthor : Tn.RR"
 echo "\033[35;1mTeam : Zone In Crime (ZiC)"
 echo "\033[33;1mIncarlah yang mustahil"
 echo "\033[31;1mSubcribe Youtube:"
-echo "\033[33;1mCyberZiC" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
+echo "\033[33;1mCyberZiC" "\033[32;1m&" "\033[36;1mCrackSecurity"
 echo "\033[34;1m[============================[>"
 sleep 1
 echo ""
@@ -1622,7 +1622,7 @@ echo "\033[33;1mZone in Crime"
 sleep 1
 echo " Sadis"
 sleep 1
-echo "Dan perlu di ingat"
+echo "Dan perlu di ingat,jangan sok mastah.. Dan"
 sleep 1
 echo "Jangan Pernah Menyerah"
 sleep 1
