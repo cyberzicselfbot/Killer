@@ -3,7 +3,7 @@ include 'func.php';
 
 /*
     https://github.com/nee48/BomTelpSmsTokped
-    Made by Handika Pratama
+    Made by CyberZiC
 */
 
 $init = new Bom();
