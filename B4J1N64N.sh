@@ -12,53 +12,53 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 sleep 1
-toilet -f big -F gay "T00Ls" | lolcat
-toilet -f big -F gay "B4J1N64Nv5" 
+toilet -f big -F gay "Tools" | lolcat
+toilet -f big -F gay "Zone In Crime" 
 echo ""      
-echo "\033[32;1mAuthor : Mr.B4J1N64N Feat Mr.IM81" 
-echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
+echo "\033[32;1mAuthor : Tn.RR" 
+echo "\033[35;1mTeam : Zone In Crime (ZiC)"
+echo "\033[33;1mIncarlah yang mustahil"
 echo "\033[31;1mSubcribe Youtube:"
-echo "\033[33;1mDarkness Cyber Team" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
+echo "\033[33;1mCyberZiC" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[============================[>"
 sleep 1
 echo ""
-echo "\033[32;1mSilahkan Pilih Tools Yang mau Kamu pake:)?:"
+echo "\033[32;1mKalo dah pake jangan lupa subscribe:"
 echo "\033[36;1m"
 echo "[===============================================[>"
-echo $green "1.> Spam Sms Tokopedia"
+echo $green "1.> Spam Kode Tokoped"
 echo "[===============================================]>"
-echo $purple "2.> Spam Sms Telkomnyet"
+echo $purple "2.> Spam kode NyetNyet"
 echo "[===============================================]>"
-echo $cyan "3.> Spam Sms Matahari Mall"
+echo $cyan "3.> Spam kode MatahariMall"
 echo "[===============================================]>"
-echo $red "4.> Spam Sms HooqTV"
+echo $red "4.> Spam kode HooqTV"
 echo "[===============================================]>"
-echo $white "5.> Spam Sms KFC"
+echo $white "5.> Spam kode KFC"
 echo "[===============================================]>"
-echo $green "6.> Spam Sms PHD"
+echo $green "6.> Spam kode PHD"
 echo "[===============================================]>"
-echo $purple "7.> Spam Sms Whiskas"
+echo $purple "7.> Spam kode Whiskas"
 echo "[===============================================]>"
-echo $cyan "8.> Spam Sms ZiPAY"
+echo $cyan "8.> Spam kode ZiPAY"
 echo "[===============================================]>"
-echo $red "9.> Nyari CC buat Carding"
+echo $red "9.> CC buat Carding"
 echo "[===============================================]>"
-echo $white "10.> Spam Akun Gmail"
+echo $white "10.> Spam kode Akun Gmail"
 echo "[===============================================]>"
 echo $green "11.> Whois LookUp"
 echo "[===============================================]>"
 echo $purple "12.> Upload Admin Finder"
 echo "[===============================================]>"
-echo $cyan "13.> Script Deface Creator"
+echo $cyan "13.> Script Deface"
 echo "[===============================================]>"
-echo $red "14.> ReConDog Buat Information gathering"
+echo $red "14.> ReConDog Information gathering"
 echo "[===============================================]>"
 echo $white "15.> Admin Login Finder"
 echo "[===============================================]>"
-echo $green "16.> Virus VbugMaker Creator"
+echo $green "16.> Virus Creat"
 echo "[===============================================]>"
-echo $purple "17.> dowload script deface orang"
+echo $purple "17.> dowload script deface Team"
 echo "[===============================================]>"
 echo $cyan "18.> Autolike Facebook"
 echo "[===============================================]>"
@@ -74,9 +74,9 @@ echo $cyan "23.> install hash-buster"
 echo "[===============================================]>"
 echo $red "24.> Install Red_Hawk"
 echo "[===============================================]>"
-echo $white "25.> Install Torshammer buat DDOS website"
+echo $white "25.> Install Torshammer DDOS website"
 echo "[===============================================]>"
-echo $green "26.> Install LITEDDOS buat DDOS website"
+echo $green "26.> Install LITEDDOS DDOS website"
 echo "[===============================================]>"
 echo $purple "27.> Install Hunner Framework"
 echo "[===============================================]>"
@@ -86,9 +86,9 @@ echo $red "29.> Install 4wsectools"
 echo "[===============================================]>"
 echo $white "30.> Install Lazymux Buat Install Tools"
 echo "[===============================================]>"
-echo $green "31.> Mempercepat / Menstabilkan Jaringan/sinyal"
+echo $green "31.> Menstabilkan Jaringan/sinyal"
 echo "[===============================================]>"
-echo $purple "32.> Mempercepat / menstabilkan jaringan 2"
+echo $purple "32.> Menstabilkan jaringan 2"
 echo "[===============================================]>"
 echo $cyan "33.> Install BinGoo"
 echo "[===============================================]>"
@@ -116,7 +116,7 @@ echo $red "44.> DEFACE metode Webdav"
 echo "[===============================================]>"
 echo $white "45.> Tools Katoolin"
 echo "[===============================================]>"
-echo $green "46.> Main Tebak2 kan:v biar ga bt:v"
+echo $green "46.> Main Tebak2 kan:v"
 echo "[===============================================]>"
 echo $purple "47.> Brute DEFACE webdav"
 echo "[===============================================]>"
@@ -124,9 +124,9 @@ echo $cyan "48.> Browsing Di Termux"
 echo "[===============================================]>"
 echo $red "49.> Dengerin Lagu Youtube di Termux"
 echo "[===============================================]>"
-echo $white "50.> Tebak Tebak Kan Soal Cinta Tod" 
+echo $white "50.> Tebak Tebak Kan Soal Cinta" 
 echo "[===============================================]>"
-echo $green "51.> Nuyul Bitcoin"
+echo $green "51.> Nambang Bitcoin"
 echo "[===============================================]>"
 echo $purple "52.> Install MetaSploit"
 echo "[===============================================]>"
@@ -226,15 +226,15 @@ echo $green "99.> Install Termux-Mpv"
 echo "[===============================================]>"
 echo $purple "100.> Install OWASP-Nettacker"
 echo "[===============================================]>"
-echo $yellow "0.> keluar"
+echo $yellow "0.> kabur"
 echo "[===============================================]>"
 echo "\033[32;1m"
-read -p "[root@T00Ls-B4J1N64Nv5:~#" bro
+read -p "[root@T00Ls-CyberZiC:~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "CyberZiC" | lolcat
 cd module
 php tp.php
 fi
@@ -243,14 +243,14 @@ if
 [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC "
 cd module
 php t.php
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
-figlet "Mr.B4J1N64N"
+figlet "CyberZiC"
 cd module
 php mataharimall.php
 fi
@@ -258,7 +258,7 @@ fi
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 php hooq.php
 fi
@@ -266,7 +266,7 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "CyberZiC"
 cd module
 php kfc.php
 fi
@@ -274,7 +274,7 @@ fi
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N"
+toilet -f mono12 -F gay "CyberZiC"
 cd module
 php phd.php
 fi
@@ -282,7 +282,7 @@ fi
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 php whiskas.php
 fi
@@ -290,7 +290,7 @@ fi
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
-figlet "Mr.B4J1N64N"
+figlet "CyberZiC"
 cd module
 php zipay.php
 fi
@@ -298,7 +298,7 @@ fi
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 php key.php
 fi
@@ -306,7 +306,7 @@ fi
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 SpamMail.py
 fi
@@ -314,7 +314,7 @@ fi
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 whs.py
 fi
@@ -322,7 +322,7 @@ fi
 if [ $bro = 12 ] || [ $bro = 12 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 upf.py
 fi
@@ -330,7 +330,7 @@ fi
 if [ $bro = 13 ] || [ $bro = 13 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 create.py
 fi
@@ -338,7 +338,7 @@ fi
 if [ $bro = 14 ] || [ $bro = 14 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 dog.py
 fi
@@ -346,7 +346,7 @@ fi
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 gam.py
 fi
@@ -354,7 +354,7 @@ fi
 if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 anvima.py
 fi
@@ -362,7 +362,7 @@ fi
 if [ $bro = 17 ] || [ $bro = 17 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 htmd.py
 fi
@@ -370,7 +370,7 @@ fi
 if [ $bro = 18 ] || [ $bro = 18 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 php autolike.php
 fi
@@ -378,7 +378,7 @@ fi
 if [ $bro = 19 ] || [ $bro = 19 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "CyberZiC"
 cd module
 python2 auto_reaction.py
 fi
@@ -386,7 +386,7 @@ fi
 if [ $bro = 20 ] || [ bro = 20 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "CyberZiC" | lolcat
 cd module
 python2 botkomen.py
 fi
@@ -1557,7 +1557,7 @@ fi
 if [ $bro = 97 ] || [ $bro = 97 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "CyberZiC"
 sleep 1
 apt update 
 apt upgrade
@@ -1572,7 +1572,7 @@ fi
 if [ $bro = 98 ] || [ $bro = 98 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "CyberZiC"
 sleep 1
 apt update 
 apt upgrade
@@ -1587,7 +1587,7 @@ fi
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "CyberZiC"
 sleep 1
 apt update 
 apt upgrade
@@ -1602,7 +1602,7 @@ fi
 if [ $bro = 100 ] || [ $bro = 100 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "CyberZiC"
 sleep 1
 apt update 
 apt upgrade
@@ -1616,21 +1616,21 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 00 ]
 then
-echo "\033[32;1mDARKNESS CYBER TEAM"
+echo "\033[32;1mCyberZiC"
 sleep 1
-echo "\033[33;1mWe Security"
+echo "\033[33;1mZone in Crime"
 sleep 1
-echo " We Not Friends"
+echo " Sadis"
 sleep 1
-echo "We Are Family"
+echo "Dan perlu di ingat"
 sleep 1
-echo "Hacking Is Not Criminal;)"
+echo "Jangan Pernah Menyerah"
 sleep 1
-echo "Ketika Sebuah Hayalan Tidak tercapai"
+echo "Incarlah Yang Mustahil"
 sleep 1
-echo "Maka Terus lah BerJuang Dan Berusaha:)"
+echo "Salam"
 sleep 1
-echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya:)"
+echo "\033[32;1mCyberZiC"
 sleep 1
 exit
 fi
